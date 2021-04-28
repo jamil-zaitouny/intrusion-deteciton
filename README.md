@@ -12,7 +12,7 @@ app that would be seen by the intruder.
 
 ## Schematics
 
-![Schematics](schematics.jpg)
+![Schematics](schematic.jpg)
 
 ## Pre-requisites
 
