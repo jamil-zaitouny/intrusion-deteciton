@@ -58,6 +58,10 @@ To setup, follow these steps below.
       application wouldn't work straight out of the box
     - Change the language from node to python 3.7 <
     - Copy the contents of the feature/cloud_detection branch into the cloud function
+    - run get_on_trained_embeddings(filenames) where filenames is the images that you want to get the 
+      embeddings on. Everything will be saved to a embedding_average.txt. take the output of the file,
+      and replace it YOUR_EMBEDDING in the cloud function
+    - Use VGG
     - Deploy the function, resolve any errors if needbe
     - Copy the link and add it to the ENV file
       -GOOGLE_FUNCTION_LINK="*your google function trigger link*"
