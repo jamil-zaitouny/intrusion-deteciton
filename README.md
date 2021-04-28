@@ -13,6 +13,7 @@ app that would be seen by the intruder.
 ## Schematics
 
 ![Schematics](schematic.jpg)
+![Flow Graph](flow_graph.jpg)
 
 ## Pre-requisites
 
